@@ -1,2 +1,2 @@
 # bank-account-assignment
-Java bank account assignment.
+Java bank account assignment. Uses Scanner to take input from the user, and HashMap and ArrayList to store bank account information.
